@@ -1,0 +1,15 @@
+{
+  "name": "types-classes-of-game",
+  "version": "1.0.0",
+  "description": "A simple TypeScript application that models a hero in an adventure game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
